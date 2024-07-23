@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Frontend End Technology*
 
-- 👨‍💻 Portfolio [https://sagar-bhamare.github.io/Personal-Portfolio/Personal_Portfolio_Website_14-04-23-main/](https://sagar-bhamare.github.io/Personal-Portfolio/Personal_Portfolio_Website_14-04-23-main/)
+- 👨‍💻 Portfolio [https://sanket-shinde0720.github.io/Sanket-Personal-Portfolio/)
 
 - 💬 Ask me about *Figma Designs,Photoshop Design,3D Designs*
 
